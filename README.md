@@ -12,8 +12,6 @@ Personalized facial recognition attendance system. leverages advanced facial rec
 
 
 
- # FaceScan-Facial-Recognition
-
 A personalized facial recognition attendance system that leverages advanced deep learning technologies to streamline and automate attendance tracking processes.
 
 ## Description
